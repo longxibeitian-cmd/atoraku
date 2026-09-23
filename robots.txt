@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ryukiii.github.io/atoraku/sitemap.xml
+Sitemap: https://longxibeitian-cmd.github.io/atoraku/sitemap.xml
