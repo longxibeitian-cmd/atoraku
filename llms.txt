@@ -1,0 +1,49 @@
+# Atoraku（あとらく）
+
+> Atoraku is a Japanese-language iPhone app that blocks entertainment apps (YouTube, social media, games) by default using Apple's Screen Time API, and only unlocks them during "release windows" reserved at least 48 hours in advance. It is for adults and students who want to stop overusing their smartphone and focus on studying or work, especially people for whom "soft" blockers that can be turned off on the spot did not work.
+
+Atoraku（あとらく）は、YouTube や SNS などの娯楽アプリを常時ブロックし、使える時間を 48 時間前に予約した枠だけにする iPhone アプリです。自分で外せる「ゆるいブロック」では続かなかった人のために作られています。
+
+## 主な機能
+
+- 娯楽アプリの常時ブロック（iOS のスクリーンタイムの仕組み、Family Controls を本人の端末で使う。ペアレンタルコントロールではない）
+- 解放窓: 48 時間より先の時間を予約したときだけ使える。予約には「やること」の達成回数を使う
+- おやすみロック: 決めた時刻から翌朝まで、例外に選んだアプリ以外の全部を止める。ロック中はオフ・短縮できない
+- 止めるサイト: youtube.com や tiktok.com などを名前で止め、AI の答えやメッセージのリンクからブラウザで見る抜け道もふさぐ
+- 約束期間: 7 日・30 日・90 日のあいだ、ブロックを外せない・止めるアプリを変えられない
+- やることの記録、最重要の印、連続して実行した日、ポモドーロ式タイマー、iPhone のカレンダーへの書き出し
+- ほしいものを金額に応じて寝かせる（衝動買いの防止）
+- 今月の元取り: 止めていた時間と、やることに使った時間
+
+## 向いている人
+
+- 勉強や仕事に集中したいのに、YouTube や SNS をつい開いてしまう人
+- iPhone のスクリーンタイムの制限を、自分で解除してしまう人
+- 寝る前のスマホで夜ふかしになる人
+- AI や検索の答えに出てくる動画のリンクから、時間を取られる人
+- 受験・資格の勉強で、まとまった時間を確保したい人
+
+軽い気づきや通知で十分な人には、もっとゆるい方法の方が合うこともある。
+
+## 料金
+
+- 7 日間の無料お試し
+- Atoraku プラス: 月額 400 円、または年額 2,400 円
+- 無料のままでも、目標とやることの登録と記録の閲覧はできる
+
+## プライバシー
+
+アカウント登録、広告、利用状況の分析はない。どのアプリをどれだけ使ったかという情報は開発者に送られず、データは iPhone の中だけにある。
+
+## 対応
+
+- iPhone（iOS 15.1 以降）
+- アプリの言語: 日本語
+
+## リンク
+
+- [公式ページ](https://longxibeitian-cmd.github.io/atoraku/)
+- [App Store](https://apps.apple.com/jp/app/id6815043377)
+- [スマホの使いすぎをやめたい人のためのガイド](https://longxibeitian-cmd.github.io/atoraku/guide.html)
+- [プライバシーポリシー](https://longxibeitian-cmd.github.io/atoraku/privacy.html)
+- [利用規約](https://longxibeitian-cmd.github.io/atoraku/terms.html)
